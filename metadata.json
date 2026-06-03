@@ -1,0 +1,6 @@
+{
+  "name": "SomaLink CBC",
+  "description": "Connecting Kenyan parents with local suppliers for Competency-Based Curriculum (CBC) school supplies, featuring real-time material tracking, AI curriculum parsing, local delivery routing, and a supplier marketplace.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
